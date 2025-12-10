@@ -6,7 +6,7 @@ The R code contains the code for mixed image example and requires packages image
 The zip files contain additional details of the settings used for the fMRI analysis as well as the GIFT results in the HTML files.
 
 Authors: 
-Arvila,M. Nordhausen,K. Sipilä,M and Taskinen,S.
+Arvila,M., Nordhausen,K., Sipilä,M. and Taskinen,S.
 
 References:
 Sipilä, M., Nordhausen, K. and Taskinen, S. (2022). ivaBSS: Tools for Independent Vector Analysis R package version 1.0.0.
