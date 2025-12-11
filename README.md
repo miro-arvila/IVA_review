@@ -1,5 +1,7 @@
 # IVA review
-This repository contains both of the examples from the paper "Independent vector analysis - an introduction to statisticians" by Arvila,M. Nordhausen,K. Sipilä,M and Taskinen,S. Link for the arxiv of the paper (https://arxiv.org/abs/2506.16175).
+This repository contains both of the examples from the paper "Independent vector analysis - an introduction to statisticians" by Arvila, M., Nordhausen, K., Sipilä, M and Taskinen, S. 
+
+A preprint of the paper is available on ArXiv (https://arxiv.org/abs/2506.16175).
 
 The .jpg files contain the pictures that are used in the image example. The pictures are owned by Mika Sipilä.
 
@@ -13,7 +15,7 @@ Arvila,M., Nordhausen,K., Sipilä,M. and Taskinen,S.
 
 License
 
-GPL3
+GPL3 and images are licensed under CC BY 4.0
 
 References
 
