@@ -1,5 +1,5 @@
 # IVA review
-This repository contains both of the examples from the paper "Independent vector analysis - an introduction to statisticians" by Arvila, M., Nordhausen, K., Sipilä, M and Taskinen, S. 
+This repository contains both of the examples from the paper "Independent vector analysis - an introduction to statisticians" by Arvila, M., Nordhausen, K., Sipilä, M. and Taskinen, S. 
 
 A preprint of the paper is available on ArXiv (https://arxiv.org/abs/2506.16175).
 
