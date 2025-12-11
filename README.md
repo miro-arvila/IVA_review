@@ -11,7 +11,7 @@ The zip files contain additional details of the settings used for the fMRI analy
 
 Authors 
 
-Arvila,M., Nordhausen,K., Sipilä,M. and Taskinen,S.
+Arvila, M., Nordhausen, K., Sipilä, M. and Taskinen, S.
 
 License
 
