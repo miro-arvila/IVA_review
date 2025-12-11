@@ -1,6 +1,8 @@
 # IVA review
 This repository contains both of the examples from the paper "Independent vector analysis - an introduction to statisticians" by Arvila,M. Nordhausen,K. Sipilä,M and Taskinen,S. Link for the arxiv of the paper (https://arxiv.org/abs/2506.16175).
 
+The .jpg files contain the pictures that are used in the image example. The picture are owned by Mika Sipilä.
+
 The R code contains the code for mixed image example and requires packages imager and ivaBSS which are on CRAN.
 
 The zip files contain additional details of the settings used for the fMRI analysis as well as the GIFT results in the HTML files. GIFT can be found from (https://github.com/trendscenter/gift).
